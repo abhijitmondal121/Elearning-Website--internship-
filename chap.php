@@ -1,7 +1,6 @@
 <?php include 'partials/_dbconnect.php'; ?>
 
 
-
 <!doctype html>
 <html lang="en">
   <head>
